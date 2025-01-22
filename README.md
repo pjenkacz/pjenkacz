@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pjenkacz
-- 👀 I’m interested in b0bies
+- 👀 I’m interested in capybaras
 - 🌱 I’m currently learning - yes I am
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - leave a blue rock near a tree at 3PM in RESOV, Pilsudzikego 44 35-001 West side of the building. I will find you
