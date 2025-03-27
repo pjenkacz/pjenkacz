@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pjenkacz
 - 👀 I’m interested in capybaras
 - 🌱 I’m currently learning - C++, Javascript
-- 💞️ I’m looking for and internship
+- 💞️ I’m looking for an internship
 
 <!---
 - 📫 How to reach me - leave a blue rock near a tree at 3PM in RESOV, Pilsudzikego 44 35-001 West side of the building. I will find you
