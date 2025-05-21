@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pjenkacz
 - 👀 I’m interested in capybaras
-- 🌱 I’m currently learning - C++, Javascript
+- 🌱 I’m currently learning - Python, Javascript ,C++ 
 - 💞️ I’m looking for an internship
 
 <!---
