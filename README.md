@@ -1,7 +1,7 @@
 
 ## Stack Technologiczny
 
-### Web Development (Full-Stack Architect)
+### Web Development
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,fastapi,postgres,redis,docker&perline=11" />
