@@ -13,7 +13,7 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv11](https://img.shields.io/badge/YOLO-00FF00?style=flat-square&logo=ultralytics&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-339933?style=flat-square&logo=ultralytics&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 🔗 [View repository](https://github.com/pjenkacz/PlantDiseaseDetectionAPP)
