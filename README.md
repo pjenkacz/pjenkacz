@@ -1,55 +1,52 @@
+## 🛠 Tech Stack
 
-## Stack Technologiczny
-
-### Web Development
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,fastapi,postgres,redis,docker&perline=11" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=000" alt="Drizzle">
-</p>
-
-### Machine Learning & Computer Vision
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,tensorflow,sklearn,opencv&perline=11" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/YOLO_v8/v9/v11-00FF00?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLO">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,tensorflow,cpp&perline=7" />
 </p>
 
 ---
 
-## Praca Inżynierska 
+## 🚀 Projects
 
-<details open>
-  <summary><strong>System Detekcji i Diagnozy Chorób Roślin przy użyciu Computer Vision</strong></summary>
-  
-  > **Problem:** Straty w uprawach rolniczych spowodowane patogenami.
-  > **Rozwiązanie:** Aplikacja mobilna integrująca zaawansowany model detekcji obiektów.
-  
-  ### Architektura Systemu
-  * **Model:** Fine-tuned YOLOv11 zaimplementowany w **PyTorch** (własny zbiór danych, anotacja, mAP@50 > 72%).
-  * **Backend:** Asynchroniczny serwer **FastAPI** (Python), orkiestracja żądań analitycznych, bezpieczna autoryzacja (JWT).
-  * **Front/Mob:** Aplikacja mobilna (**Kotlin**), integracja z aparatem, real-time feedback dla użytkownika.
-  * **Infrastruktura:** Model serwowany po stronie serwera dla optymalizacji zasobów urządzenia mobilnego.
-</details>
+### 🌿 Plant Disease Detection
+> Mobile application for detecting plant diseases using a Computer Vision -  YOLOv11 model (mAP@50 > 72%). Async FastAPI backend with JWT authentication.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-00FF00?style=flat-square&logo=ultralytics&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+🔗 [View repository](https://github.com/pjenkacz/PlantDiseaseDetectionAPP)
 
 ---
 
-## 📫 Skontaktuj się ze mną
+### 🏠 Real Estate Marketplace
+> A full-stack real estate platform where users can browse and filter listings, chat with sellers, and publish their own properties through a multi-step wizard. Handled security and API optimazation with TanStack Query.
 
-<div align="left">
-  <a href="https://linkedin.com/in/[TWOJ-LINKEDIN]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:pieniekmichal01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
- 
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+🔗 [View repository](https://github.com/pjenkacz/rental-app)
+
+---
+
+### 🤖 AI Deal Agent
+> An agentic AI system that automatically searches the web for the best deals and promotions on products. Built on LangGraph with multi-agent orchestration.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+🔗 [View repository](https://github.com/pjenkacz/AI-Deal-Agent)
+
+---
+
+## 📫 Get in touch
+
+<a href="https://www.linkedin.com/in/pieniekmichal/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:pieniekmichal01@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
